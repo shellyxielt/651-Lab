@@ -1,0 +1,24 @@
+table{
+    background-color: cornflowerblue;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    margin: auto;
+
+    thead{
+        color: lightpink;
+    }
+
+    tbody{
+        color: lightyellow;
+    }
+}
+
+%message {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.card {
+    @extend %message;
+}

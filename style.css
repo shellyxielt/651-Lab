@@ -1,0 +1,46 @@
+@media (min-width:1000px){
+    .back{
+        background-color: mistyrose;
+    }
+}
+@media (max-width:999px){
+    .back{
+        background-color:lemonchiffon;
+    }
+}
+
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px;
+}
+
+ul li{
+    font-size: 22px;
+}
+
+#m{
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+#p{
+    font-size: 25px;
+    margin-top: 150px;
+    margin-bottom: 10px;
+}
+
+table,td,th{
+    border:1px solid black;
+    border-collapse: collapse;
+}
+
+.row>div{
+    background-color: lightblue;
+    padding: 8px;
+    line-height: normal;
+    margin-top: 30px;
+    margin-bottom: 80px;
+}

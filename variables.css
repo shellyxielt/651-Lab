@@ -1,0 +1,16 @@
+table {
+  background-color: cornflowerblue;
+  font-size: 28px;
+  font-family: 'Times New Roman', Times, serif;
+  margin: auto; }
+  table thead {
+    color: lightpink; }
+  table tbody {
+    color: lightyellow; }
+
+.card {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 22px;
+  font-weight: bold; }
+
+/*# sourceMappingURL=variables.css.map */
